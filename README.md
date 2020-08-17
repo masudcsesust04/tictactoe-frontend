@@ -33,3 +33,9 @@ Note: Make sure it's running on port 5000.
 $ npm start
 ```
 
+## Dockerization
+Follow https://github.com/masudcsesust04/tictactoe-docker to run frontend, backend app in a docker environment
+
+### Thank you!
+
+
