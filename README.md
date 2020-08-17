@@ -22,10 +22,11 @@ $ yarn install
 ## Backend app run
 Follow https://github.com/masudcsesust04/tictactoe-backend to run the backend application.
 
-Note: Make sure it's running on port 5000. Otherwise update the port mapping to fronend app package.json file following line - 
-```
-"proxy": "http://localhost:5000"
-``` 
+Note: Make sure it's running on port 5000. 
+
+## Environment variable set
+- Make a copy of ```.env.sample``` file and save it as ```.env```. 
+- If your backend app running on a different port other than 5000 update .env file proxy URL.
 
 ## Run the frontend application
 ```
